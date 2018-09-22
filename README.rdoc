@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJamesJJ%2Ffluent-plugin-sqs.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FJamesJJ%2Ffluent-plugin-sqs?ref=badge_shield)
+
 = Amazon SQS output plugin for Fluent
 
 == Install
@@ -101,3 +103,7 @@ Read events from from amazon SQS.
 
 Copyright:: Copyright (c) 2011- Yuri Odagiri
 License::   Apache License, Version 2.0
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FJamesJJ%2Ffluent-plugin-sqs.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FJamesJJ%2Ffluent-plugin-sqs?ref=badge_large)
